@@ -140,6 +140,11 @@ body, html {
   padding: 16px;
 }
 
+.a{
+  position: absolute;
+  display: none;
+}
+
 /* Fixed/sticky icon bar (vertically aligned 50% from the top of the screen) */
 /*.icon-bar {
   position: fixed;
