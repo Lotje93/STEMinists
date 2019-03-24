@@ -1,29 +1,14 @@
 body {
-    background-color: white 
+    background-color: white
 }
 
 .heading {
-  width: 1000px;
-  border: 50px
-  padding: 50px;
-  margin: 60px;
+  width: 1200px;
+  border: 100px
+  padding: 100px;
+  margin: 100px;
 }
 
-.subheading {
-  width: 1000px;
-  border: 50px
-  padding: 50px;
-  margin: 60px;
-}
-
-.featured_picture {
-  width: 1000px;
-  border: 50px
-  padding: 50px;
-  margin: 60px;
-}
-
-.featured_description {
-  text-align: justify;
-  text-justify: inter-word;
+.opacity {
+  font-color: blue
 }
