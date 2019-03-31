@@ -14,9 +14,15 @@ body {
 }
 
 img {
+  height: 200px;
+  width: 200px;
+  margin-top: 30px;
+  margin-bottom: 10px;
   border-radius: 50%;
 }
 
 .btn-color  {
+  margin-top: 50px;
   background-color: #3090C7;
+  width: 30%;
 }
