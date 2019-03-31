@@ -12,3 +12,11 @@ body {
 .opacity {
   color: #3090C7;
 }
+
+img {
+  border-radius: 50%;
+}
+
+.btn-color  {
+  background-color: #3090C7;
+}
